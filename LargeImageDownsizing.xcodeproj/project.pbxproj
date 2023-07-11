@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C41B001F13E8C43D0089C2E6 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = C41B001E13E8C43D0089C2E6 /* ReadMe.txt */; };
+		C41B001F13E8C43D0089C2E6 /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = C41B001E13E8C43D0089C2E6 /* ReadMe.md */; };
 		C42B301518DB7CBC00F98B9F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C42B301318DB7CBC00F98B9F /* MainWindow.xib */; };
 		C465AC9F138B5AEE00055050 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C465AC9E138B5AEE00055050 /* UIKit.framework */; };
 		C465ACA1138B5AEE00055050 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C465ACA0138B5AEE00055050 /* Foundation.framework */; };
@@ -33,7 +33,7 @@
 /* Begin PBXFileReference section */
 		15AF09902A5D3F9E00C09476 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		15AF09912A5D3F9E00C09476 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LargeImageDownsizingViewController.xib; sourceTree = "<group>"; };
-		C41B001E13E8C43D0089C2E6 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = SOURCE_ROOT; };
+		C41B001E13E8C43D0089C2E6 /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = SOURCE_ROOT; };
 		C465AC9A138B5AEE00055050 /* LargeImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LargeImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C465AC9E138B5AEE00055050 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C465ACA0138B5AEE00055050 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -108,7 +108,7 @@
 		C465ACA4138B5AEE00055050 /* LargeImageDownsizing */ = {
 			isa = PBXGroup;
 			children = (
-				C41B001E13E8C43D0089C2E6 /* ReadMe.txt */,
+				C41B001E13E8C43D0089C2E6 /* ReadMe.md */,
 				C465ACAD138B5AEE00055050 /* LargeImageDownsizingAppDelegate.h */,
 				C465ACAE138B5AEE00055050 /* LargeImageDownsizingAppDelegate.m */,
 				C465ACB3138B5AEF00055050 /* LargeImageDownsizingViewController.h */,
@@ -213,7 +213,7 @@
 				C42B301518DB7CBC00F98B9F /* MainWindow.xib in Resources */,
 				C465ACE4138B6A3D00055050 /* Icon@2x.png in Resources */,
 				C4CBB70E13D1404300D1B910 /* large_leaves_70mp.jpg in Resources */,
-				C41B001F13E8C43D0089C2E6 /* ReadMe.txt in Resources */,
+				C41B001F13E8C43D0089C2E6 /* ReadMe.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
